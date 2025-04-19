@@ -44,7 +44,7 @@
 		"BUILDING_KNIGHT_STATUE_HAPPINESSFACTOR_DESC": "战士保家卫国，以此为傲！只要英魂庭屹立不倒，所有战士就能获得幸福度加成。"
 	},
 	"NEEDS": {
-		"COULD_NOT_VISIT_X": "无法获取{1}！",
+		"COULD_NOT_VISIT_X": "无法抵达{1}！",
 		"COULD_NOT_COMPLETE_VISIT": "拜访不成！",
 		"COULD_NOT_FIND_LODGING": "找不到客房！",
 		"COULD_NOT_STAY_AT_X": "无法在{1}停留！",
